@@ -4,7 +4,7 @@
 
 ### Glad to see you here!
 
-I am a front-end software engineer. I love programming, writing and traveling. Building admin dashboards and complex complex in React covers most of my time.
+I am a front-end software engineer. I love programming, writing and traveling. Building admin dashboards and complex applications in React covers most of my time.
 
 📈 **My GitHub Stats:**
 
