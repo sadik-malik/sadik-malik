@@ -14,3 +14,6 @@ I am a front-end software engineer. I love programming, writing and traveling. B
   <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs?username=sadik-malik&show_icons=true&locale=en" alt="ovi" />
 </p>
 
+![Metrics](https://metrics.lecoq.io/sadik-malik?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
+
+
