@@ -5,8 +5,6 @@
 ### Glad to see you here!
 <img src="https://komarev.com/ghpvc/?username=sadik-malik&color=brightgreen" alt="watching_count" />
 
-I am a front-end software engineer. I love programming, writing and traveling. Building admin dashboards and complex applications in React covers most of my time.
-
 📈 **My GitHub Stats:**
 
 <p>
