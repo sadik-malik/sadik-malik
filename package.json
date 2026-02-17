@@ -7,7 +7,7 @@
     "build": "astro build",
     "preview": "astro preview",
     "astro": "astro",
-    "deploy": "pnpm run build && gh-pages -d dist"
+    "deploy": "pnpm run build"
   },
   "dependencies": {
     "@astrojs/react": "^4.4.2",
@@ -26,7 +26,6 @@
   },
   "devDependencies": {
     "@types/three": "^0.182.0",
-    "@astrojs/static": "^3.0.0",
-    "gh-pages": "^5.0.0"
+    "@astrojs/static": "^3.0.0"
   }
 }
