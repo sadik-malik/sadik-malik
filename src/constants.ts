@@ -94,13 +94,13 @@ export const PROJECTS: Project[] = [
     title: "Laparoscopic Surgeons",
     description: "Medical professionals website built on WordPress.",
     category: "WordPress",
-    link: "https://laparoscopicsurgeons.com/",
+    link: "https://laparoscopist.com/",
   },
   {
     title: "Markerita",
     description: "Public website for Markerita's digital marketing services.",
     category: "WordPress",
-    link: "https://www.markerita.com/",
+    link: "https://www.markerita.in/",
   },
   {
     title: "Tezipay Website",
