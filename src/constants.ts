@@ -49,7 +49,7 @@ export const PROJECTS: Project[] = [
     title: "Vivek Narayan Sharma",
     description: "Personal website for a legal professional built on Next.js.",
     category: "Next.js",
-    link: "https://www.viveknarayan.com/",
+    link: "https://www.viveknarayansharma.com/",
   },
   {
     title: "Anant Enterprises",
