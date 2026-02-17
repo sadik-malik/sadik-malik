@@ -2,6 +2,8 @@
   "name": "sadik-malik",
   "type": "module",
   "version": "0.0.1",
+  "packageManager": "pnpm@10.26.0",
+  "private": true,
   "scripts": {
     "dev": "astro dev",
     "build": "astro build",
@@ -25,7 +27,6 @@
     "three": "^0.182.0"
   },
   "devDependencies": {
-    "@types/three": "^0.182.0",
-    "@astrojs/static": "^3.0.0"
+    "@types/three": "^0.182.0"
   }
 }
