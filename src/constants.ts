@@ -11,7 +11,7 @@ export const PROJECTS: Project[] = [
     description:
       "Designed Figma and developed the public website using Next.js.",
     category: "Figma + Next.js",
-    link: "https://ae-magnetics.com/",
+    link: "https://weiff.org",
   },
   {
     title: "Valentis Cancer Hospital",
