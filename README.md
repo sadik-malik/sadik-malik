@@ -15,16 +15,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="Node.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pug/pug-original.svg" height="50" alt="Pug" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="50" alt="TailwindCSS" />
-</p>
-
----
-
-## 🎨 UI Libraries
-
-<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="50" alt="Material UI" />
   <img src="https://cdn.simpleicons.org/shadcnui" height="50" alt="shadcn/ui" />
 </p>
+
+---
 
 📈 **My GitHub Stats:**
 <div align="center">
