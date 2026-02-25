@@ -4,7 +4,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=sadik-malik&color=brightgreen" alt="watching_count" />
 
-## 🛠 Technologies
+## Tech Stack
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50" alt="Next.js" />
