@@ -1,32 +1,6 @@
-### <samp>&gt; Hi there, I'm Sadik Malik <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
-
-### Glad to see you here!
-
-<img src="https://komarev.com/ghpvc/?username=sadik-malik&color=brightgreen" alt="watching_count" />
-
-## Tech Stack
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50" alt="Next.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="React.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg" height="50" alt="Astro" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50" alt="PHP" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="50" alt="WordPress" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pug/pug-original.svg" height="50" alt="Pug" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="50" alt="TailwindCSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="50" alt="Material UI" />
-  <img src="https://cdn.simpleicons.org/shadcnui" height="50" alt="shadcn/ui" />
-</p>
-
----
-
-📈 **My GitHub Stats:**
-<div align="center">
-    <!-- Contribution Graph -->
-    <a href="#gh-light-mode-only">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=sadik-malik&theme=github-light&point=00000000&radius=16#gh-light-mode-only" alt="GitHub Activity Graph">
-    </a>
-</div>
-
-</br>
+<img src="assets/terminal.svg" width="100%" alt="neofetch-style terminal: Sadik Malik, full-stack web developer, Delhi NCR" />
+Hey, I'm Sadik. I build websites and web apps out of Delhi, mostly with Next.js and React, sometimes Astro, and a fair bit of PHP and WordPress when a project needs it.
+ 
+Lately I've been spending a lot of time with AI coding tools and building small things around them.
+ 
+**What I usually reach for:** TypeScript, React, Next.js, Astro, Node.js, Tailwind, shadcn/ui, MUI, PHP, WordPress.
