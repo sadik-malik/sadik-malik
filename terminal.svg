@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="440" viewBox="0 0 880 440" role="img" aria-label="sadik@delhi terminal running neofetch">
+  <style>
+    text { font-family: "JetBrains Mono", "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace; font-size: 14px; fill: #c9d1d9; white-space: pre; }
+    .g  { fill: #3fb950; }
+    .gb { fill: #3fb950; font-weight: 700; }
+    .b  { fill: #58a6ff; }
+    .k  { fill: #3fb950; font-weight: 700; }
+    .m  { fill: #8b949e; }
+    .y  { fill: #d29922; }
+    .art { fill: #3fb950; font-size: 15px; }
+    .title { fill: #8b949e; font-size: 13px; }
+  </style>
+
+  <defs>
+    <linearGradient id="glow" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="1" stop-color="#010409"/>
+    </linearGradient>
+    <clipPath id="c1"><rect x="150" y="56" height="22" width="0"><animate attributeName="width" from="0" to="80" begin="0.5s" dur="0.7s" calcMode="discrete" values="0;10;20;30;40;50;60;70;80" fill="freeze"/></rect></clipPath>
+  </defs>
+
+  <!-- window -->
+  <rect x="0.5" y="0.5" width="879" height="439" rx="12" fill="url(#glow)" stroke="#30363d"/>
+  <path d="M0.5 12.5a12 12 0 0 1 12-12h855a12 12 0 0 1 12 12V36H0.5z" fill="#161b22"/>
+  <line x1="0.5" y1="36" x2="879.5" y2="36" stroke="#30363d"/>
+  <circle cx="22" cy="18" r="6" fill="#ff5f56"/>
+  <circle cx="42" cy="18" r="6" fill="#ffbd2e"/>
+  <circle cx="62" cy="18" r="6" fill="#27c93f"/>
+  <text x="440" y="23" text-anchor="middle" class="title">sadik@delhi: ~</text>
+
+  <!-- $ neofetch -->
+  <text x="24" y="72"><tspan class="g">sadik@delhi</tspan><tspan class="m">:</tspan><tspan class="b">~</tspan><tspan class="m">$</tspan></text>
+  <text x="150" y="72" clip-path="url(#c1)">neofetch</text>
+
+  <!-- ASCII art -->
+  <g opacity="0">
+    <set attributeName="opacity" to="1" begin="1.35s" fill="freeze"/>
+    <text x="34" y="128" class="art">███████╗ ███╗   ███╗</text>
+    <text x="34" y="148" class="art">██╔════╝ ████╗ ████║</text>
+    <text x="34" y="168" class="art">███████╗ ██╔████╔██║</text>
+    <text x="34" y="188" class="art">╚════██║ ██║╚██╔╝██║</text>
+    <text x="34" y="208" class="art">███████║ ██║ ╚═╝ ██║</text>
+    <text x="34" y="228" class="art">╚══════╝ ╚═╝     ╚═╝</text>
+  </g>
+
+  <!-- info -->
+  <g opacity="0"><set attributeName="opacity" to="1" begin="1.40s" fill="freeze"/>
+    <text x="330" y="118"><tspan class="gb">sadik</tspan><tspan class="m">@</tspan><tspan class="gb">github</tspan></text>
+    <text x="330" y="138" class="m">────────────────────</text>
+  </g>
+  <g opacity="0"><set attributeName="opacity" to="1" begin="1.50s" fill="freeze"/>
+    <text x="330" y="162"><tspan class="k">Name</tspan><tspan x="430">Sadik Malik</tspan></text></g>
+  <g opacity="0"><set attributeName="opacity" to="1" begin="1.60s" fill="freeze"/>
+    <text x="330" y="184"><tspan class="k">Role</tspan><tspan x="430">Full-Stack Web Developer</tspan></text></g>
+  <g opacity="0"><set attributeName="opacity" to="1" begin="1.70s" fill="freeze"/>
+    <text x="330" y="206"><tspan class="k">Host</tspan><tspan x="430">Delhi NCR, India</tspan></text></g>
+  <g opacity="0"><set attributeName="opacity" to="1" begin="1.80s" fill="freeze"/>
+    <text x="330" y="228"><tspan class="k">Langs</tspan><tspan x="430">TypeScript · JavaScript · PHP</tspan></text></g>
+  <g opacity="0"><set attributeName="opacity" to="1" begin="1.90s" fill="freeze"/>
+    <text x="330" y="250"><tspan class="k">Frontend</tspan><tspan x="430">Next.js · React · Astro</tspan></text></g>
+  <g opacity="0"><set attributeName="opacity" to="1" begin="2.00s" fill="freeze"/>
+    <text x="330" y="272"><tspan class="k">UI</tspan><tspan x="430">Tailwind · shadcn/ui · MUI</tspan></text></g>
+  <g opacity="0"><set attributeName="opacity" to="1" begin="2.10s" fill="freeze"/>
+    <text x="330" y="294"><tspan class="k">Backend</tspan><tspan x="430">Node.js · WordPress</tspan></text></g>
+  <g opacity="0"><set attributeName="opacity" to="1" begin="2.20s" fill="freeze"/>
+    <text x="330" y="316"><tspan class="k">Focus</tspan><tspan x="430">AI dev tooling &amp; agents</tspan></text></g>
+  <g opacity="0"><set attributeName="opacity" to="1" begin="2.30s" fill="freeze"/>
+    <text x="330" y="338"><tspan class="k">Uptime</tspan><tspan x="430">on GitHub since 2018</tspan></text></g>
+
+  <!-- palette -->
+  <g opacity="0"><set attributeName="opacity" to="1" begin="2.45s" fill="freeze"/>
+    <rect x="330" y="352" width="24" height="12" fill="#0d1117" stroke="#30363d"/>
+    <rect x="354" y="352" width="24" height="12" fill="#ff7b72"/>
+    <rect x="378" y="352" width="24" height="12" fill="#3fb950"/>
+    <rect x="402" y="352" width="24" height="12" fill="#d29922"/>
+    <rect x="426" y="352" width="24" height="12" fill="#58a6ff"/>
+    <rect x="450" y="352" width="24" height="12" fill="#bc8cff"/>
+    <rect x="474" y="352" width="24" height="12" fill="#39c5cf"/>
+    <rect x="498" y="352" width="24" height="12" fill="#c9d1d9"/>
+  </g>
+
+  <!-- final prompt + cursor -->
+  <g opacity="0"><set attributeName="opacity" to="1" begin="2.8s" fill="freeze"/>
+    <text x="24" y="404"><tspan class="g">sadik@delhi</tspan><tspan class="m">:</tspan><tspan class="b">~</tspan><tspan class="m">$</tspan></text>
+    <rect x="150" y="391" width="9" height="17" fill="#3fb950">
+      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1s" begin="2.8s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>
